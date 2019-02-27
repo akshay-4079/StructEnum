@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructEnumEasy", "StructEnumEasy\StructEnumEasy.csproj", "{6C4B65E9-8BFF-42BA-A779-2C8E354C2C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructEnumMedium", "StructEnumMedium\StructEnumMedium.csproj", "{1F991BE7-D942-41B7-B67D-1A64DF06E961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructEnumHard", "StructEnumHard\StructEnumHard.csproj", "{F05D781E-785A-4285-91E0-939E7FA89D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4B65E9-8BFF-42BA-A779-2C8E354C2C49}.Debug|x86.ActiveCfg = Debug|x86
+		{6C4B65E9-8BFF-42BA-A779-2C8E354C2C49}.Debug|x86.Build.0 = Debug|x86
+		{6C4B65E9-8BFF-42BA-A779-2C8E354C2C49}.Release|x86.ActiveCfg = Release|x86
+		{6C4B65E9-8BFF-42BA-A779-2C8E354C2C49}.Release|x86.Build.0 = Release|x86
+		{1F991BE7-D942-41B7-B67D-1A64DF06E961}.Debug|x86.ActiveCfg = Debug|x86
+		{1F991BE7-D942-41B7-B67D-1A64DF06E961}.Debug|x86.Build.0 = Debug|x86
+		{1F991BE7-D942-41B7-B67D-1A64DF06E961}.Release|x86.ActiveCfg = Release|x86
+		{1F991BE7-D942-41B7-B67D-1A64DF06E961}.Release|x86.Build.0 = Release|x86
+		{F05D781E-785A-4285-91E0-939E7FA89D45}.Debug|x86.ActiveCfg = Debug|x86
+		{F05D781E-785A-4285-91E0-939E7FA89D45}.Debug|x86.Build.0 = Debug|x86
+		{F05D781E-785A-4285-91E0-939E7FA89D45}.Release|x86.ActiveCfg = Release|x86
+		{F05D781E-785A-4285-91E0-939E7FA89D45}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
